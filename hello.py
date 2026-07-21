@@ -1,1 +1,1 @@
-print("i am intern at SEED doing the Ai bootcamp")
+print("i am intern at SEED doing the Ai bootcamp and would like to extend a hand of greeting to akongnwi darius")
